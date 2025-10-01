@@ -24,3 +24,8 @@ This repository contains a Python-based machine learning project for analyzing f
 - GitHub: [@arrexha](https://github.com/arrexha)
 - Repository: [arrexha/football](https://github.com/arrexha/football)
 - Portfolio *https://arrexha.netlify.app/*
+
+## Requirement
+-pandas>=2.0.0
+-numpy>=1.24.0
+-scikit-learn>=1.3.0
